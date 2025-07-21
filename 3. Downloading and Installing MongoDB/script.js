@@ -1,0 +1,5 @@
+/*
+    Download MongoDb and accept compass installation with it
+
+    Also install MongoDB Shell
+*/
